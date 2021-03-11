@@ -7,3 +7,7 @@ Here are the visualization lesson notebooks:
 * [box_plots.ipynb](box_plots.ipynb)
 * [swarm_plots.ipynb](swarm_plots.ipynb)
 * [pie_charts.ipynb](pie_charts.ipynb)
+
+You can also complete the optional bonus lesson!
+
+* [violin_plots.ipynb](violin_plots.ipynb)
